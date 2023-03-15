@@ -343,6 +343,10 @@
   gscholaruser: 'mnNvWjkAAAAJ'
   githubusername: balopat
   pageurl: 'https://refactorium.com/'
+  
+- user_id: MarcusPS
+  name: 'Marcus P da Silva'
+  githubusername: marcusps
 
 #
 # Core members -- add 'zooteam: core' and 'zoorole: <role>' to each entry.
